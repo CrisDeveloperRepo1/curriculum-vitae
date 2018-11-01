@@ -1,0 +1,210 @@
+*{
+
+	padding:0;
+	margin:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+
+
+}
+
+body{
+
+    background: url(imagenes/fer.jpg);
+	
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+
+
+
+}
+.contenedor {
+	width: 90%;
+	max-width:1000px;
+	margin: auto;
+
+
+}
+#particles-js{
+	width:100%;
+	height:100%;
+	position: fixed;
+	/*background: rgba(0,0,0,.8);*/
+
+
+
+
+
+}
+
+
+
+
+
+header{
+	position: relative;
+	height: auto;
+
+
+
+}
+
+.texto{
+	color: #fff;
+	position: relative;
+	z-index:
+	padding:200px 0; 
+	text-align: center;
+	font-weight: 200px;
+
+
+
+}
+.texto h2,.texto p {
+	/*background: rgba(0,0,0,.8);*/
+	display: inline-block;
+	padding: 10px 20px;
+
+
+}
+.texto h2{
+	font-size: 40px;
+	letter-spacing: 2.5px;
+	font-weight: normal;
+
+
+}
+.texto p{
+	font-size: 20px;
+	letter-spacing: 2.5px;
+
+
+
+}
+
+.principal {
+	position :relative;
+	color:#fff;
+
+
+
+
+
+}
+.principal article {
+	padding: 20px;
+	background: #fff;,
+	margin-bottom: 20px;
+	background: rgba(0,0,0,.2);
+	font-size: 18px;
+
+
+
+
+}
+.principal article p{
+	margin-bottom: 20px;
+	line-height: 24px;
+
+
+
+}
+
+
+
+.principalfer {
+	background: #3CB371;
+	
+	padding: 5px;
+}
+
+.contenedorfer {
+	border:1px solid #3CB371;
+	margin:0 auto;
+	width: 100%;
+	background: #FFFFFF;
+	padding: 10px;
+	max-width: 1000px;
+	overflow: hidden;
+}
+
+	.deporte{
+		font-size: 30px;
+		color:#fff;
+		margin-left: 20px;
+		margin-right: 10px;
+
+	}
+	.futbol{
+		font-size: 30px;
+		
+		margin-left: 20px;
+		color:#fff;
+		
+
+
+	}
+	.musica{
+		font-size: 30px;
+		color:#fff;
+		margin-left: 20px;
+	}
+	.leer{
+		font-size: 30px;
+		color:#fff;
+		margin-left: 30px;
+
+	}
+	.film {
+		font-size: 30px;
+		color:#fff;
+		margin-left: 30px;
+
+	}
+	.game {
+		font-size: 30px;
+		color:#fff;
+		margin-left: 30px;
+
+	}		
+
+	.direccion{
+		font-size: 25px;
+		color: #fff;
+}
+
+	.dni{
+		font-size: 25px;
+		color: #fff;
+}
+
+
+	.facebook{
+		font-size: 25px;
+		color: #fff;
+}
+	.e-mail{
+		font-size: 25px;
+		color: #fff;
+}
+	.celular{
+		font-size: 25px;
+		color: #fff;}
+
+	.datos{
+		font-size: 45px;
+		color: #fff;}
+
+
+	.linkedin{
+		font-size: 25px;
+		color: #fff;
+}
+
+
+
+
+
+
